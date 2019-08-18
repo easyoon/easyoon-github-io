@@ -1,0 +1,228 @@
+body {
+  background-color: #e9f1e7;
+  color: #005923;
+  font-family: Futura;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+
+  transform: scale(0.7);
+  transform-origin: 0 0;
+}
+
+.Ezi {
+  width: 53px;
+  height: 46px;
+  transform: scaleX(-1);
+  font-size: 36px;
+  font-weight: bold;
+  color: #005923 !important;
+  margin-left: 108px;
+  margin-top: 82px;
+  display: inline-block;
+  text-decoration: none !important;
+}
+
+.aboucontact {
+  width: 121px;
+  height: 27px;
+  font-family: Futura;
+  font-size: 21px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #005923;
+  position: absolute;
+  top: 83px;
+  left: 1225px;
+  text-decoration: underline;
+}
+
+.content {
+  margin-left: 210px;
+  margin-top: 162px;
+}
+
+.Eazyoon {
+  width: 369px;
+  height: 104px;
+  font-family: Futura;
+  font-size: 80px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #005923;
+}
+
+.writer-designer {
+  width: 253px;
+  height: 762px;
+  font-family: Futura;
+  font-size: 48px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.65;
+  letter-spacing: normal;
+  color: #005923;
+}
+
+.contact {
+  width: 318px;
+  height: 104px;
+  font-family: Futura;
+  font-size: 80px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #005923;
+}
+
+.easyoon21gmailco {
+  width: 256px;
+  height: 127px;
+  font-family: Futura;
+  font-size: 24px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 5.29;
+  letter-spacing: normal;
+  color: #005923;
+}
+
+.img-psychology {
+  position: absolute;
+  top: 344px;
+  left: 550px;
+  width: 806px;
+  height: 550px;
+  z-index: -1;
+}
+
+.img-start {
+  position: absolute;
+  top: 1300px;
+  left: 235px;
+  width: 806px;
+  height: 570px;
+  z-index: -1;
+}
+
+.img-escher {
+  position: absolute;
+  top: 2294px;
+  left: 646px;
+  width: 612px;
+  height: 796px;
+  z-index: -1;
+}
+
+.txt-psychology {
+  width: 1057px;
+  height: 208px;
+  font-family: Futura;
+  font-size: 80px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #00451b;
+  position: absolute;
+  top: 830px;
+  left: 370px;
+}
+
+.txt-start {
+  width: 692px;
+  height: 208px;
+  font-family: Futura;
+  font-size: 80px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #00451b;
+  position: absolute;
+  top: 1808px;
+  left: 118px;
+}
+
+.txt-escher {
+  width: 572px;
+  height: 208px;
+  font-family: Futura;
+  font-size: 80px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #00451b;
+  position: absolute;
+  top: 3012px;
+  left: 548px;
+}
+
+.txt-no1 {
+  width: 117px;
+  height: 42px;
+  transform: rotate(270deg);
+  font-family: Futura;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #005923;
+  position: absolute;
+  top: 381px;
+  left: 459px;
+}
+
+.txt-no2 {
+  width: 120px;
+  height: 42px;
+  transform: rotate(270deg);
+  font-family: Futura;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #005923;
+  position: absolute;
+  top: 1338px;
+  left: 140px;
+}
+
+.txt-no3 {
+  width: 120px;
+  height: 42px;
+  transform: rotate(270deg);
+  font-family: Futura;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #005923;
+  position: absolute;
+  top: 2328px;
+  left: 542px;
+}
